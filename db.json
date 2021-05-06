@@ -1,7 +1,7 @@
 {
   "government":[
      {"id": 1, "title": "anugul", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
-     {"id": 2, "title": "balangir", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "9438776394", "06652-232773" },
+     {"id": 2, "title": "balangir", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "9438776394" },
      {"id": 3, "title": "balasore", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
      {"id": 4, "title": "bargarh", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
      {"id": 5, "title": "bhadrak", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
