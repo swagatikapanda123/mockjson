@@ -19,7 +19,10 @@
      {"id": 17, "title": "keonjhar", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
      {"id": 18, "title": "khorda", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
      {"id": 19, "title": "koraput", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
-     {"id": 20, "title": "malkangiri", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" }
+     {"id": 20, "title": "malkangiri", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
+     {"id": 21, "title": "mayurbhanj", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
+     {"id": 22, "title": "nabarangapur", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
+     {"id": 23, "title": "nayagarh", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" }
 ],
   "private": [
      {"id": 1, "title": "khurda", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
