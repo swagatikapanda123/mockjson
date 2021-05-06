@@ -1,5 +1,6 @@
 {
   "government":[
+     {"id": 1, "title": "anugul", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
      {"id": 2, "title": "balangir", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "9438776394" },
      {"id": 3, "title": "balasore", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
      {"id": 4, "title": "bargarh", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
@@ -21,7 +22,13 @@
      {"id": 20, "title": "malkangiri", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
      {"id": 21, "title": "mayurbhanj", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
      {"id": 22, "title": "nabarangapur", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
-     {"id": 23, "title": "nayagarh", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" }
+     {"id": 23, "title": "nayagarh", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
+     {"id": 24, "title": "nuapada", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
+     {"id": 25, "title": "puri", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
+     {"id": 27, "title": "rayagada", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
+     {"id": 28, "title": "sambalpur", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
+     {"id": 29, "title": "sonpur", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
+     {"id": 30, "title": "sundargarh", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" }
 ],
   "private": [
      {"id": 1, "title": "khurda", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
