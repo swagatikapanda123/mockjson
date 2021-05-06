@@ -28,7 +28,8 @@
      {"id": 27, "title": "rayagada", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
      {"id": 28, "title": "sambalpur", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
      {"id": 29, "title": "sonpur", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
-     {"id": 30, "title": "sundargarh", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "8658300375" }
+     {"id": 30, "title": "sundargarh", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "8658300375" },
+     {"id": 31, "title": "sundargarh", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "8658300375" }
 ],
   "private": [
      {"id": 1, "title": "khurda", "bed":"1234567", "oxygen": "123456", "food": "1234444", "help-line": "232432432" },
